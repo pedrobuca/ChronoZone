@@ -1,11 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
-import Navbar from './Components/Navbar';
+import Navbar from './Components/Navbar/Navbar';
+import Footer from './Components/Footer';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Navbar/>
+        <div className='h-App'>
+          Ola
+        </div>
+      <Footer/>
     </div>
   );
 }

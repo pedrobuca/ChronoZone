@@ -2,7 +2,7 @@
 
 function Footer() {
   return (
-    <footer className="">
+    <footer className="bg-black text-white">
         <div>ola</div>
     </footer>
   );

@@ -4,7 +4,14 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      height:{
+        App: '90vh',
+      },
+      borderRadius:{
+        cart: "100%",
+      },
+    },
   },
   plugins: [],
 }
