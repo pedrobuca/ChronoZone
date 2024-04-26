@@ -4,7 +4,7 @@ import User from "./User";
 
 function Navbar() {
     return (
-      <div className="">
+      <div className="``2">
           <div className="flex  justify-center items-center bg-white w-full p-8">
 
             <div className="flex justify-between items-center w-2/3">

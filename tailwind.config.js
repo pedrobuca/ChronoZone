@@ -8,9 +8,15 @@ module.exports = {
       height:{
         App: '90vh',
       },
+      colors:{
+        slide: "#795b5c",
+      },
       borderRadius:{
         cart: "100%",
       },
+      fontSize:{
+        xl5: "50em",
+      }
     },
   },
   plugins: [],
