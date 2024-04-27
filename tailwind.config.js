@@ -7,6 +7,7 @@ module.exports = {
     extend: {
       height:{
         App: '90vh',
+        section: '50vh',
       },
       colors:{
         slide: "#795b5c",
